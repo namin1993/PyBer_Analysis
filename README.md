@@ -16,19 +16,19 @@ This data would help certain managers and the CEO of the company to determine ho
 The stats from the ride-sharing data are as follows:
 
 - The total number of rides for each city type from 2019 are:
-    Rural: 125 rides
-    Suburban: 625 rides
-    Urban: 1625 rides
+    -- Rural: 125 rides
+    -- Suburban: 625 rides
+    -- Urban: 1625 rides
 
 - The total drivers for each city type from 2019 are:
-    Rural: 537 rides
-    Suburban: 8570 rides
-    Urban: 59602 rides
+    -- Rural: 537 rides
+    -- Suburban: 8570 rides
+    -- Urban: 59602 rides
 
 - The average fare per ride and driver by city type are:
-    Rural: $34.62 fare per ride / $8.06 fare per driver
-    Suburban: $30.97 fare per ride / $2.26 fare per driver
-    Urban: $24.53 fare per ride / $0.67 fare per driver
+    -- Rural: $34.62 fare per ride / $8.06 fare per driver
+    -- Suburban: $30.97 fare per ride / $2.26 fare per driver
+    -- Urban: $24.53 fare per ride / $0.67 fare per driver
 
 
 ![Total Fares by City Type chart](https://github.com/namin1993/PyBer_Analysis/blob/3ebdff30da0ed27fd2a8a20dac4642d3ab85e63a/analysis/PyBer_fare_summary.png)
