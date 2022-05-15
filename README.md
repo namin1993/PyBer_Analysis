@@ -13,8 +13,6 @@ This data would help certain managers and the CEO of the company to determine ho
 
 ### Results
 
-![Pyber Summary Chart](https://myoctocat.com/assets/images/base-octocat.svg)
-
 The stats from the ride-sharing data are as follows:
 
 - The total number of rides for each city type from 2019 are:
@@ -33,7 +31,7 @@ The stats from the ride-sharing data are as follows:
     Urban: $24.53 fare per ride / $0.67 fare per driver
 
 
-![Total Fares by City Type chart](https://myoctocat.com/assets/images/base-octocat.svg)
+![Total Fares by City Type chart](https://github.com/namin1993/PyBer_Analysis/blob/3ebdff30da0ed27fd2a8a20dac4642d3ab85e63a/analysis/PyBer_fare_summary.png)
 
 The total fares by city type listed in the chart above show that Urban cities collect the most fares per week while Rural cities collect the least amount of fares.
 
